@@ -11,3 +11,6 @@ with open("baidu.html", mode="w") as f:
     f.write(resp.read().decode("utf-8"))
 
 print("!")
+
+
+print("hello")
